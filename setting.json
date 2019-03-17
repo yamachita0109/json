@@ -1,6 +1,24 @@
 [{
 	"from": "2019/03/01 12:35:23",
 	"to": "2019/03/21 12:45:21",
-	"price": [120,400,1200,3600,12000]
-
+	"priceList": [{
+		"price": 120,
+		"code": "test_item_01"
+	},
+	{
+		"price": 400,
+		"code": "test_item_02"
+	},
+	{
+		"price": 1200,
+		"code": "test_item_03"
+	},
+	{
+		"price": 3600,
+		"code": "test_item_04"
+	},
+	{
+		"price": 12000,
+		"code": "test_item_05"
+	}]
 }]
