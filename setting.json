@@ -3,22 +3,22 @@
 	"to": "2022/03/21 12:45:21",
 	"priceList": [{
 		"price": 120,
-		"code": "test_item_01"
+		"code": "item_01"
 	},
 	{
 		"price": 400,
-		"code": "test_item_02"
+		"code": "item_02"
 	},
 	{
 		"price": 1200,
-		"code": "test_item_03"
+		"code": "item_03"
 	},
 	{
 		"price": 3600,
-		"code": "test_item_04"
+		"code": "item_04"
 	},
 	{
 		"price": 12000,
-		"code": "test_item_05"
+		"code": "item_05"
 	}]
 }]
