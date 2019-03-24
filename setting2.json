@@ -1,0 +1,17 @@
+[{
+	"from": "2019/03/01 12:35:23",
+	"to": "2022/03/21 12:45:21",
+	"isActive": true,
+	"priceList": [{
+		"price": 120,
+		"code": "item_01"
+	},
+	{
+		"price": 3200,
+		"code": "item_03"
+	},
+	{
+		"price": 6000,
+		"code": "subscriptions_01"
+	}]
+}]
