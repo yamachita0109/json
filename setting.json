@@ -4,14 +4,17 @@
 	"isActive": true,
 	"priceList": [{
 		"price": 120,
-		"code": "item_01"
+		"code": "item_01",
+		"isFaceBook": false
 	},
 	{
 		"price": 3200,
-		"code": "item_03"
+		"code": "item_03",
+		"isFaceBook": false
 	},
 	{
 		"price": 6000,
-		"code": "subscriptions_01"
+		"code": "subscriptions_01",
+		"isFaceBook": true
 	}]
 }]
