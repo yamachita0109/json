@@ -3,17 +3,17 @@
 	"to": "2022/03/21 12:45:21",
 	"isActive": true,
 	"priceList": [{
-		"price": 12,
+		"fight": 12,
 		"code": "item_01",
 		"isSubscription": false
 	},
 	{
-		"price": 320,
+		"fight": 320,
 		"code": "item_03",
 		"isSubscription": false
 	},
 	{
-		"price": 600,
+		"fight": 600,
 		"code": "subscriptions_01",
 		"isSubscription": true
 	}]
