@@ -3,18 +3,18 @@
 	"to": "2022/03/21 12:45:21",
 	"isActive": true,
 	"priceList": [{
-		"price": 120,
+		"price": 12,
 		"code": "item_01",
-		"isFaceBook": false
+		"isSubscription": false
 	},
 	{
-		"price": 3200,
+		"price": 320,
 		"code": "item_03",
-		"isFaceBook": false
+		"isSubscription": false
 	},
 	{
-		"price": 6000,
+		"price": 600,
 		"code": "subscriptions_01",
-		"isFaceBook": true
+		"isSubscription": true
 	}]
 }]
