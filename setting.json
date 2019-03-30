@@ -14,6 +14,11 @@
 	},
 	{
 		"fight": 600,
+		"code": "subscriptions_02",
+		"isSubscription": true
+	},
+	{
+		"fight": 600,
 		"code": "subscriptions_01",
 		"isSubscription": true
 	}]
