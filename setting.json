@@ -4,12 +4,12 @@
 	"isActive": true,
 	"fightList": [{
 		"fight": 12,
-		"code": "item_11",
+		"code": "item_09_test",
 		"isSubscription": false
 	},
 	{
-		"fight": 2400,
-		"code": "item_12",
+		"fight": 240,
+		"code": "item_10_test",
 		"isSubscription": false
 	},
 	{
