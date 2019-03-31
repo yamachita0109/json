@@ -3,18 +3,18 @@
 	"to": "2022/03/21 12:45:21",
 	"isActive": true,
 	"fightList": [{
-		"fight": 12,
-		"code": "item_12",
+		"fight": 200,
+		"code": "nakata_item_01",
 		"isSubscription": false
 	},
 	{
-		"fight": 240,
-		"code": "item_13",
+		"fight": 300,
+		"code": "nakata_item_02",
 		"isSubscription": false
 	},
 	{
 		"fight": 600,
-		"code": "subscriptions_01",
+		"code": "nakata_subscriptions_01",
 		"isSubscription": true
 	}]
 }]
