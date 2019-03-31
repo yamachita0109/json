@@ -1,0 +1,22 @@
+[
+{
+isActive: true,
+fightList: [
+{
+fight: 200,
+code: "nakata_item_01",
+isSubscription: false
+},
+{
+fight: 300,
+code: "nakata_item_02",
+isSubscription: false
+},
+{
+fight: 600,
+code: "nakata_subscriptions_01",
+isSubscription: true
+}
+]
+}
+]
