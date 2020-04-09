@@ -1,20 +1,4 @@
-[{
-	"from": "2019/03/01 12:35:23",
-	"to": "2022/03/21 12:45:21",
-	"isActive": true,
-	"fightList": [{
-		"fight": 12,
-		"code": "item_01",
-		"isSubscription": false
-	},
-	{
-		"fight": 320,
-		"code": "item_03",
-		"isSubscription": false
-	},
-	{
-		"fight": 600,
-		"code": "subscriptions_01",
-		"isSubscription": true
-	}]
-}]
+{
+	"name": "yamashita",
+	"age": 28
+}
